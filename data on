@@ -1,0 +1,123 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-8821019250792681",
+
+        "BannerAdmob": "ca-app-pub-8821019250792681/7844693598",
+        "InterstitialAdmob": "ca-app-pub-8821019250792681/2947590136",
+        "NativeAdmob": "ca-app-pub-8821019250792681/9491256686",
+		
+		"BannerAdmob1": "ca-app-pub-8821019250792681/6148468541",
+        "InterstitialAdmob1": "ca-app-pub-8821019250792681/8750403547",
+        "NativeAdmob1": "ca-app-pub-8821019250792681/6287891739",
+		
+		"BannerAdmob2": "ca-app-pub-8821019250792681/9704570176",
+        "InterstitialAdmob2": "ca-app-pub-8821019250792681/4619586848",
+        "NativeAdmob2": "ca-app-pub-8821019250792681/3470156701",
+
+        "BannerAdmob3": "ca-app-pub-8821019250792681/7411888251",
+        "InterstitialAdmob3": "ca-app-pub-8821019250792681/8012036948",
+        "NativeAdmob3": "ca-app-pub-8821019250792681/6451543265",
+
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+        "BannerFacebook1": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+		
+		 "BannerFacebook2": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+		
+      }
+    ],
+
+    "items": [
+      {
+        "title": "App Details",
+        "image": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing"
+      },
+      {
+        "title": "Wombo App",
+        "image": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing"
+      },
+      {
+        "title": "What Is Wombo AI Apk",
+        "image": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing"
+      },
+	   {
+        "title": "How To Download And Use",
+        "image": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing"
+      }
+	   {
+        "title": "Final Words",
+        "image": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing",
+        "text": "App DetailsName: Wombo AlVersion: v1.2.2Size: 35.62 MBDeveloper: Wombo Studios IncPackage Name: com.womboai.womboPrice: FreeRequired Android: 5.0 and Up",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing",
+        "text": "You may have used so many lip-sync apps before, but this is something new and rapid. I am actually talking about Wombo ai Apk. ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing",
+        "text": "Wombo ai Apk is an Al-Powered app that allows users to create short videos. You only need to capture a photo and then click on thecreate button or option to make thatanimation.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing",
+        "text": "Wombo ai Apk?First of all, go for the Wombo ai Download link, which is given right at the end of this page. Then simply install that Apk file on your Android smartphones or tablets. Launch that app and allow all the permissions. Then capture a selfie-and click on create option. Then wait for a while to let it process",
+        "isNative": "false"
+      },
+	  {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "https://drive.google.com/file/d/1b_v6Y5SPs8pfeEBTrbSexYOuRx1LjFOG/view?usp=sharing",
+        "text": "Final Words That is all from this review. Now you can download Wombo ai Apk on your Android phones. Then create Bizarre, funny, and hilarious videos for free of cost.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
